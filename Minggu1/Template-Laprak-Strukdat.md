@@ -58,7 +58,7 @@ penjelasan singkat guided 3
 ## Unguided
 
 ### 1\. (Buatlah program yang menerima input-an dua buah bilangan betipe float, kemudian memberikan output-an hasil penjumlahan, pengurangan, perkalian, dan pembagian dari dua bilangan tersebut.\)
-
+```C++
 #include <iostream>
 using namespace std;
 
@@ -72,7 +72,7 @@ int main() {
     cout << a * b << endl;
     cout << a / b << endl;
 }
-
+```
 ### Output Unguided 1 :
 
 ##### Output 1
@@ -86,7 +86,7 @@ int main() {
 user memasukan 2 inputan lalu inputan di simpan dan di lakukan penjumlahan pengurangan perkalian dan pembagian
 
 ### 2\. (Buatlah sebuah program yang menerima masukan angka dan mengeluarkan output nilai angka tersebut dalam bentuk tulisan. Angka yang akan di-input-kan user adalah bilangan bulat positif mulai dari 0 s.d 100\)
-
+```C++
 #include <iostream>
 #include <string>
 using namespace std;
@@ -121,7 +121,7 @@ int main() {
 
     return 0;
 }
-
+```
 ### Output Unguided 2 :
 
 ##### Output 1
@@ -135,7 +135,7 @@ int main() {
 user memasukan angka dari 0 - 100 lalu program akan merubahnya menjadi string
 
 ### 3\. (Buatlah program yang dapat memberikan input dan output sbb.\)
-
+```C++
 #include <iostream>
 using namespace std;
 
@@ -157,7 +157,7 @@ int main() {
     }
     return 0;
 }
-
+```
 ### Output Unguided 3 :
 
 ##### Output 1
