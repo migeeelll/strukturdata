@@ -77,13 +77,13 @@ int main() {
 
 ##### Output 1
 
-\!\[Screenshot Output Unguided 1\_1\]([https://github.com/(username](https://github.com/\(username) github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+\!\[https://github.com/migeeelll/strukturdata/blob/main/Minggu1/foto/output1soal1.png]
 
 contoh : ![Screenshot Output Unguided 1\_1]()
 
 ##### Output 2
 
-\!\[Screenshot Output Unguided 1\_2\]([https://github.com/(username](https://github.com/\(username) github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+\!\[https://github.com/migeeelll/strukturdata/blob/main/Minggu1/foto/output2soal1.png]
 
 user memasukan 2 inputan lalu inputan di simpan dan di lakukan penjumlahan pengurangan perkalian dan pembagian
 
@@ -128,13 +128,11 @@ int main() {
 
 ##### Output 1
 
-\!\[Screenshot Output Unguided 2\_1\]([https://github.com/(username](https://github.com/\(username) github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh : ![Screenshot Output Unguided 2\_1]()
+\!\[https://github.com/migeeelll/strukturdata/blob/main/Minggu1/foto/output1soal2.png]
 
 ##### Output 2
 
-\!\[Screenshot Output Unguided 2\_2\]([https://github.com/(username](https://github.com/\(username) github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+\!\[https://github.com/migeeelll/strukturdata/blob/main/Minggu1/foto/output2soal2.png]
 
 user memasukan angka dari 0 - 100 lalu program akan merubahnya menjadi string
 
@@ -166,13 +164,13 @@ int main() {
 
 ##### Output 1
 
-\!\[Screenshot Output Unguided 3\_1\]([https://github.com/(username](https://github.com/\(username) github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+\!\[https://github.com/migeeelll/strukturdata/blob/main/Minggu1/foto/output1soal3.png]
 
 contoh : ![Screenshot Output Unguided 3\_1]()
 
 ##### Output 2
 
-\!\[Screenshot Output Unguided 3\_2\]([https://github.com/(username](https://github.com/\(username) github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+\!\[https://github.com/migeeelll/strukturdata/blob/main/Minggu1/foto/output2soal3.png]
 
 gitu
 
